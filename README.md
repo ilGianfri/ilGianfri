@@ -2,7 +2,7 @@
 
 I'm a computer science student at [UNIUPO](https://www.disit.uniupo.it/)
 
-- 🔭 I’m currently working on [Fenice for Twitter](https://twitter.com/FeniceWindows) in my free time, it's gonna be amazing!
+- 🔭 I’m currently working on [Fenice for Twitter](https://twitter.com/FeniceWindows) in my free time! [Get it here](https://www.microsoft.com/store/apps/9N65G56S5HW4)
 - 🎓 All repos starting with UPO are projects I've created for university exams
 - 📫 How to reach me: Just message me on [Twitter](https://twitter.com/intent/tweet?text=@ilGianfri) or on Telegram
 - 😄 Pronouns: he/him/his

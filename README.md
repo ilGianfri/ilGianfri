@@ -1,6 +1,6 @@
 ## Hi there, I'm Alessandro 👋
 
-I'm a computer science student at [UNIUPO](https://www.disit.uniupo.it/)
+I'm a computer science student at [UNIUPO](https://www.disit.uniupo.it/) and software developer at ALEBRO Technologies.
 
 - 🔭 I’m was working on [Fenice for Twitter](https://twitter.com/FeniceWindows) in my free time. Not anymore. [RIP](https://twitter.com/FeniceWindows/status/1616198212645167105)
 - 🎓 All repos starting with UPO are projects I've created for university exams

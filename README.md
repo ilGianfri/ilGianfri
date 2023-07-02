@@ -12,6 +12,7 @@ I'm a computer science student at [UNIUPO](https://www.disit.uniupo.it/)
 
 ### Find me on: 
 - [Twitter](https://twitter.com/ilGianfri)
+- [BlueSky](https://ilgianfri.bsky.social)
 - [Telegram](https://telegram.me/ilgianfri)
 - [Mastodon](https://mastodon.social/@ilgianfri)
 

@@ -15,5 +15,6 @@ I'm a computer science student at [UNIUPO](https://www.disit.uniupo.it/) and sof
 - [BlueSky](https://ilgianfri.bsky.social)
 - [Telegram](https://telegram.me/ilgianfri)
 - [Mastodon](https://mastodon.social/@ilgianfri)
+- [Linkedin](https://www.linkedin.com/in/alessandrospisso/)
 
 <!-- why are you checking the source of my readme, go away -->

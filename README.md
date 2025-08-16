@@ -25,4 +25,16 @@ I'm a computer science student at [UNIUPO](https://www.disit.uniupo.it/) and sof
   <img height=250 align="center" src="https://github-readme-stats-drab-six-82.vercel.app/api/top-langs/?username=ilGianfri&layout=compact&theme=radical&langs_count=10&card_width=320" />
 </a>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
 <!-- why are you checking the source of my readme, go away -->

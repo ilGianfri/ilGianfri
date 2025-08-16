@@ -10,6 +10,18 @@ I'm a computer science student at [UNIUPO](https://www.disit.uniupo.it/) and sof
 - 📱 [I love prototypes](https://protobetatest.com/) and anything that has a chip in it
 - ⚡ Fun fact: When I was 14 I've released one of the first apps for Windows 8 with [@ilFabrz](https://github.com/ilfabrz) - [Interview](https://www.punto-informatico.it/il-sogno-di-microsoft-per-i-giovani/)
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
 ### Find me on: 
 - [Twitter](https://twitter.com/ilGianfri)
 - [BlueSky](https://ilgianfri.bsky.social)
@@ -24,17 +36,5 @@ I'm a computer science student at [UNIUPO](https://www.disit.uniupo.it/) and sof
 <a href="https://github-readme-stats-drab-six-82.vercel.app/api/top-langs/?username=ilGianfri&layout=compact&theme=radical">
   <img height=250 align="center" src="https://github-readme-stats-drab-six-82.vercel.app/api/top-langs/?username=ilGianfri&layout=compact&theme=radical&langs_count=10&card_width=320" />
 </a>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
 
 <!-- why are you checking the source of my readme, go away -->

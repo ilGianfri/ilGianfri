@@ -16,7 +16,7 @@ If it runs on .NET, I’ve probably shipped it — web, desktop, mobile, APIs, C
 - 😄 Pronouns: he/him/his
 - 💬 Languages: Italian & English
 - 📱 [I love prototypes](https://protobetatest.com/) and anything that has a chip in it
-- 🔭 I was working on [Fenice for Twitter](https://twitter.com/FeniceWindows) in my free time with @gus33000. Not anymore. [RIP 🕊️](https://twitter.com/FeniceWindows/status/1616198212645167105)
+- 🔭 I was working on [Fenice for Twitter](https://twitter.com/FeniceWindows) in my free time with [@gus33000](https://github.com/gus33000). Not anymore. [RIP 🕊️](https://twitter.com/FeniceWindows/status/1616198212645167105)
 - ⚡ Fun fact: When I was 14 I've released one of the first apps for Windows 8 with [@ilFabrz](https://github.com/ilfabrz) - [Interview](https://www.punto-informatico.it/il-sogno-di-microsoft-per-i-giovani/)
 
 ### Info
